@@ -1,0 +1,16 @@
+{
+    "packStructureVersion": 26,
+    "title": "Unlimited Potion Buff",
+    "guid": "65750211-c2f4-4122-a28c-b225fa8a4322",
+    "descriptionEnglish": "When you stack 30 potions in the piggy bank, their effect becomes permanent",
+    "authors": [
+        {
+            "file": "1.webp",
+            "name": "Zayahーざや (Creator)",
+            "color": "#af00ff",
+            "link": "",
+            "icon_height": 70
+        }
+    ],
+    "version": 1
+}
